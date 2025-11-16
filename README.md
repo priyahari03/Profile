@@ -5,11 +5,14 @@
 
 ---
 
-## About Me
-I am a Full Stack Developer with 4+ years of experience in building scalable, high-performance enterprise applications using Agile methodologies. My expertise spans both frontend and backend development, designing RESTful APIs, implementing microservices, and architecting cloud-native solutions.
-I also bring strong DevOps experience in CI/CD automation, containerization, and deploying applications in cloud environments.
-Alongside development, I have hands-on experience in test automation, working with tools and frameworks such as Selenium, Protractor, Jasmine, Karma, Cucumber, and implementing BDD/TDD practices to ensure reliability and quality throughout the software lifecycle.
+## 👩‍💻 About Me
 
+- Full Stack Developer with **4+ years of experience** building scalable, high-performance enterprise applications using Agile methodologies.  
+- Skilled in both **frontend and backend development**, including designing RESTful APIs and implementing microservices.  
+- Experienced in architecting **cloud-native applications** and working with modern cloud platforms.  
+- Strong **DevOps** background with hands-on experience in CI/CD automation, containerization, and cloud deployments.  
+- Proficient in **test automation**, using tools such as Selenium, Protractor, Jasmine, Karma, and Cucumber.  
+- Experienced in applying **BDD/TDD** practices to ensure high-quality, reliable software delivery.  
 
 ---
 
@@ -48,13 +51,7 @@ Alongside development, I have hands-on experience in test automation, working wi
 
 ## 💼 Experience
 
-
-### **Software Engineer – Graduate Student Assistant — University of Texas at Arlington** 📍 Arlington,US | 🗓 *09 2023 – Present** 
-
-## 💼 Experience
-
-### **Graduate Assistant — University of Texas at Arlington**  
-📍 Arlington, Texas, USA | 🗓 *2023 – 2024*
+### **Graduate Assistant — University of Texas at Arlington**  📍 Arlington, Texas, USA | 🗓 *09/2023 – Present*
 
 - Implemented interactive dashboards using **React JS, Node.js, and SQL** to analyze Texas city budgets, achieving a **30% reduction in budget planning time**.  
 - Applied **AI-assisted tools** (Cursor AI, ChatGPT) to accelerate UI development and debugging, increasing overall productivity.  
@@ -63,8 +60,7 @@ Alongside development, I have hands-on experience in test automation, working wi
 
 ---
 
-### **Software Developer — SIEMENS**  
-📍 Bangalore, India | 🗓 *10/2020 – 08/2023*
+### **Software Developer — SIEMENS**  📍 Bangalore, India | 🗓 *10/2020 – 08/2023*
 
 - Resolved critical bugs, enhanced features using **Agile methodologies**, and used Scrum, Kanban, JIRA, and Confluence to reduce project delays by **90%**.  
 - Deployed event-driven microservices using **Docker, Kubernetes**, and AWS services (EC2, ECS, EKS, Elastic Beanstalk, Lambda, Route53, S3) with Kafka, Pub/Sub, SQS, and SNS—ensuring **99% API uptime**.  
@@ -72,8 +68,7 @@ Alongside development, I have hands-on experience in test automation, working wi
 
 ---
 
-### **Software Engineer — SIEMENS**  
-📍 Bangalore, India | 🗓 *07/2019 – 09/2020*
+### **Software Engineer — SIEMENS**  📍 Bangalore, India | 🗓 *07/2019 – 09/2020*
 
 - Built UI applications using **Angular, Node.js, and TypeScript**, reducing page load time by **30%** and improving user management by **40%**.  
 - Designed **single-line diagrams** using Go.js for electrical UI applications, ensuring **100% client requirement compliance**.  
@@ -86,33 +81,30 @@ Alongside development, I have hands-on experience in test automation, working wi
 
 ## 🎓 Education
 
-**Master of Technology — Data Science**  
-8.17/10 | BITS Pilani, India | 2021  
+
+**Master of Science — Computer Science**  4.0/4.0 | University of Texas at Arlington, United States | 2023  
 
 ---
 
-Master of Science — Computer Science  
-4.0/4.0 | University of Texas at Arlington, United States | 2023  
+**Master of Technology — Data Science**  8.17/10 | BITS Pilani, India | 2021  
 
 ---
 
-Bachelors of Science — Computer Science  
-8.25/10 | SRM University, Chennai, India | 2023  
-
+**Bachelors of Science — Computer Science**  8.25/10 | SRM University, Chennai, India | 2019 
 
 ---
 
 ## ✍️ Blog & Writing
 
 <p>
-  <a href="[https://medium.com/@priyahari.h03]" target="_blank">
+  <a href="https://medium.com/@priyahari.h03" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/haripriyahs/]" target="_blank">
+  <a href="https://www.linkedin.com/in/haripriyahs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://github.com/priyahari03" target="_blank">
