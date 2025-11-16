@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hey There 👋, I'm Hari Priya Hari Selvam </h1>
-<h3 align="center">Full Stack Developer | Java | React/Angular | Cloud | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Java | React/Angular |Senior Software Engineer | Cloud | AI Enthusiast</h3>
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## 💼 Experience
 
-### **Graduate Assistant — University of Texas at Arlington**  📍 Arlington, Texas, USA | 🗓 *09/2023 – Present*
+### **Graduate Assistant|Software Engineer — University of Texas at Arlington**  📍 Arlington, Texas, USA | 🗓 *09/2023 – Present*
 
 - Implemented interactive dashboards using **React JS, Node.js, and SQL** to analyze Texas city budgets, achieving a **30% reduction in budget planning time**.  
 - Applied **AI-assisted tools** (Cursor AI, ChatGPT) to accelerate UI development and debugging, increasing overall productivity.  
@@ -60,7 +60,7 @@
 
 ---
 
-### **Software Developer — SIEMENS**  📍 Bangalore, India | 🗓 *10/2020 – 08/2023*
+### **Senior Software Engineer — SIEMENS**  📍 Bangalore, India | 🗓 *10/2020 – 08/2023*
 
 - Resolved critical bugs, enhanced features using **Agile methodologies**, and used Scrum, Kanban, JIRA, and Confluence to reduce project delays by **90%**.  
 - Deployed event-driven microservices using **Docker, Kubernetes**, and AWS services (EC2, ECS, EKS, Elastic Beanstalk, Lambda, Route53, S3) with Kafka, Pub/Sub, SQS, and SNS—ensuring **99% API uptime**.  
