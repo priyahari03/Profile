@@ -33,6 +33,11 @@ Along with Devops skills and deploying application in cloud-native environment.
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,firebase" />
 </p>
 
+### **Testing**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium,protractor,jasmine,karma,cucumber,BDD,TDD" />
+</p>
+
 ---
 
 
@@ -48,24 +53,17 @@ Along with Devops skills and deploying application in cloud-native environment.
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="[https://www.linkedin.com/in/haripriyahs/]" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/priyahari03" target="_blank">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:hariselvamharipriya@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
 ---
 
-## ✨ Fun Quote
-> *"Code. Create. Conquer. Repeat."*
-
----
-
-## ⭐ Support
-If you like my profile, consider giving a ⭐ to my repos!
 
