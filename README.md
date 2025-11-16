@@ -38,13 +38,19 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,firebase" />
 </p>
 
-### **Testing**
-- Selenium  
-- Protractor  
-- Jasmine  
-- Karma  
-- Cucumber  
-- BDD & TDD
+### **DevOps & Cloud-Native**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+</p>
+
+
+### **Testing Tools**
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoapUI-6D8EAA?style=for-the-badge&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=selenium,jasmine,karma,cucumber" />
+</p>
 
 ---
 
